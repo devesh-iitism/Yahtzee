@@ -3,7 +3,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  /* height: 100vh; */
+  margin: 2rem 0;
 }
 
 .App-title {
@@ -13,5 +14,5 @@
   font-weight: 100;
   display: inline-block;
   font-size: 5rem;
-  width: 50%;
+  max-width: 800px;
 }
